@@ -1,0 +1,38 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\bin\Debug\Мониторинг процессов.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\bin\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+C:\Users\Admin\Desktop\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\bin\Debug\Мониторинг процессов.exe
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\bin\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Form1.resources
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Properties.Resources.resources
+C:\Users\Admin\Desktop\Мониторинг процессов - копия\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csproj.GenerateResource.Cache
+I:\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+I:\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+I:\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.exe
+I:\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.pdb
+I:\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Form1.resources
+I:\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Properties.Resources.resources
+I:\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csproj.GenerateResource.Cache
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.exe
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.pdb
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Form1.resources
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Properties.Resources.resources
+I:\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.exe
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.exe
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\bin\Debug\Мониторинг процессов.pdb
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Form1.resources
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг_процессов.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Курсач\Мониторинг процессов\Мониторинг процессов\obj\x86\Debug\Мониторинг процессов.csprojResolveAssemblyReference.cache
